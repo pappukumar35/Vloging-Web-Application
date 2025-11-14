@@ -1,0 +1,7 @@
+{
+  "name": "TPGCODER Vlogs",
+  "description": "A modern, responsive vlogging platform where users can post blogs with AI-generated images, interact with posts, and get location-based recommendations from an AI assistant. Built with React, Tailwind CSS, and Google Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
